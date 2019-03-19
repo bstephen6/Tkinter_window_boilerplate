@@ -9,4 +9,4 @@
 * TKinter
 
 ## Main UI window :
-![UI Wireframe](docs/tkinter_window.png)
+![UI Window](docs/tkinter_window.png)
